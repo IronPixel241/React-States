@@ -178,5 +178,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 Happy coding!
 ```
-
-Feel free to customize this README to better fit your specific examples and learning goals!
