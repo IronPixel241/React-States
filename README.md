@@ -1,5 +1,3 @@
-Sure! Here's a sample README for your React states learning repository:
-
 ```markdown
 # React States Learning Repository
 
